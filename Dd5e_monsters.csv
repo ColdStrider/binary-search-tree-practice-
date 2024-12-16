@@ -1,0 +1,313 @@
+Name,Size,HP,Armor
+1,1,1,1
+Aboleth,Large,135 (18d10+36),17 (Natural Armor)
+Acolyte,Medium,9 (2d8),10
+Adult Black Dragon,Huge,195 (17d12+85),19 (Natural Armor)
+Adult Blue Dragon,Huge,225 (18d12+108),19
+Adult Brass Dragon,Huge,172 (15d12+75),18 (Natural Armor)
+Adult Bronze Dragon,Huge,212 (17d12+102),19 (Natural Armor)
+Adult Copper Dragon,Huge,184 (16d12+80),18 (Natural Armor)
+Adult Gold Dragon,Huge,256 (19d12+133),19 (Natural Armor)
+Adult Green Dragon,Huge,207 (18d12+90),19 (Natural Armor)
+Adult Red Dragon,Huge,256 (19d12+133),19 (Natural Armor)
+Adult Silver Dragon,Huge,243 (18d12+126),19 (Natural Armor)
+Adult White Dragon,Huge,200 (16d12+96),18 (Natural Armor)
+Air Elemental,Large,90 (12d10+24),15
+Ancient Black Dragon,Gargantuan,367 (21d20+147),22 (Natural Armor)
+Ancient Blue Dragon,Gargantuan,481 (26d20+208),22 (Natural Armor)
+Ancient Brass Dragon,Gargantuan,297 (17d20+119),20 (Natural Armor)
+Ancient Bronze Dragon,Gargantuan,444 (24d20+192),22 (Natural Armor)
+Ancient Copper Dragon,Gargantuan,350 (20d20+140),21 (Natural Armor)
+Ancient Gold Dragon,Gargantuan,546 (28d20+252),22 (Natural Armor)
+Ancient Green Dragon,Gargantuan,385 (22d20+154),21 (Natural Armor)
+Ancient Red Dragon,Gargantuan,546 (28d20+252),22 (Natural Armor)
+Ancient Silver Dragon,Gargantuan,487 (25d20+225),22 (Natural Armor)
+Ancient White Dragon,Gargantuan,333 (18d20+144),20 (Natural Armor)
+Androsphinx,Large,199 (19d10+95),17 (Natural Armor)
+Animated Armor,Medium,33 (6d8+6),18 (Natural Armor)
+Ape,Medium,19 (3d8+6),12
+Archmage,Medium,99 (18d8+18),12 (15 With Mage Armor)
+Assassin,Medium,78 (12d8+24),15 (Studded Leather)
+Awakened Shrub,Small,10 (3d6),9
+Awakened Tree,Huge,59 (7d12+14),13 (Natural Armor)
+Axe Beak,Large,19 (3d10+3),11
+Baboon,Small,3 (1d6),12
+Badger,Tiny,3 (1d4+1),10
+Balor,Huge,262 (21d12+126),19 (Natural Armor)
+Bandit,Medium,11 (2d8+2),12 (Leather Armor)
+Bandit Captain,Medium,65 (10d8+20),15 (Studded Leather)
+Barbed Devil,Medium,110 (13d8+52),15 (Natural Armor)
+Basilisk,Medium,52 (8d8+16),15 (Natural Armor)
+Bat,Tiny,1 (1d4-1),12
+Bearded Devil,Medium,52 (8d8+16),13 (Natural Armor)
+Behir,Huge,168 (16d12+64),17 (Natural Armor)
+Berserker,Medium,67 (9d8+27),13 (Hide Armor)
+Black Bear,Medium,19 (3d8+6),11 (Natural Armor)
+Black Dragon Wyrmling,Medium,33 (6d8+6),17 (Natural Armor)
+Black Pudding,Large,85 (10d10+30),7
+Blink Dog,Medium,22 (4d8+4),13
+Blood Hawk,Small,7 (2d6),12
+Blue Dragon Wyrmling,Medium,52 (8d8+16),17 (Natural Armor)
+Boar,Medium,11 (2d8+2),11 (Natural Armor)
+Bone Devil,Large,142 (15d10+60),19 (Natural Armor)
+Brass Dragon Wyrmling,Medium,16 (3d8+3),16 (Natural Armor)
+Bronze Dragon Wyrmling,Medium,32 (5d8+10),17 (Natural Armor)
+Brown Bear,Large,34 (4d10+12),11 (Natural Armor)
+Bulette,Large,94 (9d10+45),17 (Natural Armor)
+Camel,Large,15 (2d10+4),9
+Cat,Tiny,2 (1d4),12
+Centaur,Large,45 (6d10+12),12
+Chain Devil,Medium,85 (10d8+40),16 (Natural Armor)
+Chimera,Large,114 (12d10+48),14 (Natural Armor)
+Chuul,Large,93 (11d10+33),16 (Natural Armor)
+Clay Golem,Large,133 (14d10+56),14 (Natural Armor)
+Cloaker,Large,78 (12d10+12),14 (Natural Armor)
+Cloud Giant,Huge,200 (16d12+96),14 (Natural Armor)
+Cockatrice,Small,27 (6d6+6),11
+Commoner,Medium,4 (1d8),10
+Constrictor Snake,Large,13 (2d10+2),12
+Copper Dragon Wyrmling,Medium,22 (4d8+4),16 (Natural Armor)
+Couatl,Medium,97 (13d8+39),19 (Natural Armor)
+Crab,Tiny,2 (1d4),11 (Natural Armor)
+Crocodile,Large,19 (3d10+3),12 (Natural Armor)
+Cult Fanatic,Medium,33 (6d8+6),13 (Leather Armor)
+Cultist,Medium,9 (2d8),12 (Leather Armor)
+Darkmantle,Small,22 (5d6+5),11
+Death Dog,Medium,39 (6d8+12),12
+Deep Gnome (Svirfneblin),Small,16 (3d6 + 6),15 (chain shirt)
+Deer,Medium,4 (1d8),13
+Deva,Medium,136 (16d8+64),17 (Natural Armor)
+Dire Wolf,Large,37 (5d10+10),14 (Natural Armor)
+Diseased Giant Rat,Small,7,12
+Djinni,Large,161 (14d10+84),17 (Natural Armor)
+Doppelganger,Medium,52 (8d8+16),14
+Draft Horse,Large,19 (3d10+3),10
+Dragon Turtle,Gargantuan,341 (22d20+10),20 (Natural Armor)
+Dretch,Small,18 (4d6+4),11 (Natural Armor)
+Drider,Large,123 (13d10+52),19 (Natural Armor)
+Drow,Medium,13 (3d8),15 (Chain Shirt)
+Druid,Medium,27 (5d8+5),11 (16 With Barkskin)
+Dryad,Medium,22 (5d8),11 (16 With Barkskin)
+Dust Mephit,Small,17 (5d6),12
+Eagle,Small,3 (1d6),12
+Earth Elemental,Large,126 (12d10+60),17 (Natural Armor)
+Efreeti,Large,200 (16d10+112),17 (Natural Armor)
+Elephant,Huge,76 (8d12+24),12 (Natural Armor)
+Elk,Large,13 (2d10+2),10
+Erinyes,Medium,153 (18d8+72),18 (Plate)
+Ettercap,Medium,44 (8d8+8),13 (Natural Armor)
+Ettin,Large,85 (10d10+30),12 (Natural Armor)
+Fire Elemental,Large,102 (12d10+36),13
+Fire Giant,Huge,162 (13d12+78),18 (Plate)
+Flesh Golem,Medium,93 (11d8+44),9
+Flying Snake,Tiny,5 (2d4),14
+Flying Sword,Small,17 (5d6),17 (Natural Armor)
+Frog,Tiny,1 (1d4-1),11
+Frost Giant,Huge,138 (12d12+60),15 (Patchwork Armor)
+Gargoyle,Medium,52 (7d8+21),15 (Natural Armor)
+Gelatinous Cube,Large,84 (8d10+40),6
+Ghast,Medium,36 (8d8),13
+Ghost,Medium,45 (10d8),11
+Ghoul,Medium,22 (5d8),12
+Giant Ape,Huge,157 (15d12+60),12
+Giant Badger,Medium,13 (2d8+4),10
+Giant Bat,Large,22 (4d10),13
+Giant Boar,Large,42 (5d10+15),12 (Natural Armor)
+Giant Centipede,Small,4 (1d6+1),13 (Natural Armor)
+Giant Constrictor Snake,Huge,60 (8d12+8),12
+Giant Crab,Medium,13 (3d8),15 (Natural Armor)
+Giant Crocodile,Huge,85 (9d12+27),14 (Natural Armor)
+Giant Eagle,Large,26 (4d10+4),13
+Giant Elk,Huge,42 (5d12+10),14 (Natural Armor)
+Giant Fire Beetle,Small,4 (1d6+1),13 (Natural Armor)
+Giant Frog,Medium,18 (4d8),11
+Giant Goat,Large,19 (3d10+3),11 (Natural Armor)
+Giant Hyena,Large,45 (6d10+12),12
+Giant Lizard,Large,19 (3d10+3),12 (Natural Armor)
+Giant Octopus,Large,52 (8d10+8),11
+Giant Owl,Large,19 (3d10+3),12
+Giant Poisonous Snake,Medium,11 (2d8+2),14
+Giant Rat,Small,7 (2d6),12
+Giant Scorpion,Large,52 (7d10+14),15 (Natural Armor)
+Giant Sea Horse,Large,16 (3d10),13 (Natural Armor)
+Giant Shark,Huge,126 (11d12+55),13 (Natural Armor)
+Giant Spider,Large,26 (4d10+4),14 (Natural Armor)
+Giant Toad,Large,39 (6d10+6),11
+Giant Vulture,Large,22 (3d10+6),10
+Giant Wasp,Medium,13 (3d8),12
+Giant Weasel,Medium,9 (2d8),13
+Giant Wolf Spider,Medium,11 (2d8+2),13
+Gibbering Mouther,Medium,67 (9d8+27),9
+Glabrezu,Large,157 (15d10+75),17 (Natural Armor)
+Goat,Medium,4 (1d8),10
+Gold Dragon Wyrmling,Medium,60 (8d8+24),17 (Natural Armor)
+Gorgon,Large,114 (12d10+48),19 (Natural Armor)
+Gray Ooze,Medium,22 (3d8+9),8
+Green Dragon Wyrmling,Medium,38 (7d8+7),17 (Natural Armor)
+Green Hag,Medium,82 (11d8+33),17 (Natural Armor)
+Grick,Medium,27 (6d8),14 (Natural Armor)
+Griffon,Large,59 (7d10+21),12
+Grimlock,Medium,11 (2d8+2),11
+Guardian Naga,Large,127 (15d10+45),18 (Natural Armor)
+Gynosphinx,Large,136 (16d10+48),17 (Natural Armor)
+Half-Red Dragon Veteran,Medium,65 (10d8+20),18 (plate)
+Harpy,Medium,38 (7d8+7),11
+Hawk,Tiny,1 (1d4-1),13
+Hell Hound,Medium,45 (7d8+14),15 (Natural Armor)
+Hezrou,Large,136 (13d10+65),16 (Natural Armor)
+Hill Giant,Huge,105 (10d12+40),13 (Natural Armor)
+Hippogriff,Large,19 (3d10+3),11
+Homunculus,Tiny,5 (2d4),13 (Natural Armor)
+Horned Devil,Large,178 (17d10+85),18 (Natural Armor)
+Hunter Shark,Large,45 (6d10+12),12 (Natural Armor)
+Hydra,Huge,172 (15d12+75),15 (Natural Armor)
+Hyena,Medium,5 (1d8+1),11
+Ice Devil,Large,180 (19d10+76),18 (Natural Armor)
+Ice Mephit,Small,21 (6d6),11
+Imp,Tiny,10 (3d4+3),13
+Incubus,Medium,66 (12d8 + 12),15 (Natural Armor)
+Invisible Stalker,Medium,104 (16d8+32),14
+Iron Golem,Large,210 (20d10+100),20 (Natural Armor)
+Jackal,Small,3 (1d6),12
+Killer Whale,Huge,90 (12d12+12),12 (Natural Armor)
+Knight,Medium,52 (8d8+16),18 (Plate)
+Kobold,Small,5 (2d6-2),12
+Kraken,Gargantuan,472 (27d20+189),18 (Natural Armor)
+Lamia,Large,97 (13d10+26),13 (Natural Armor)
+Lemure,Medium,13 (3d8),7
+Lich,Medium,135 (18d8+54),17 (Natural Armor)
+Lion,Large,26 (4d10+4),12
+Lizard,Tiny,2 (1d4),10
+Mage,Medium,40 (9d8),12 (15 With Mage Armor)
+Magma Mephit,Small,22 (5d6+5),11
+Magmin,Small,9 (2d6+2),14 (Natural Armor)
+Mammoth,Huge,126 (11d12+55),13 (Natural Armor)
+Manticore,Large,68 (8d10+24),14 (Natural Armor)
+Marilith,Large,189 (18d10+90),18 (Natural Armor)
+Mastiff,Medium,5 (1d8+1),12
+Medusa,Medium,127 (17d8+51),15 (Natural Armor)
+Merfolk,Medium,11 (2d8+2),11
+Merrow,Large,45 (6d10+12),13 (Natural Armor)
+Mimic,Medium,58 (9d8+18),12 (Natural Armor)
+Minotaur,Large,76 (9d10+27),14 (Natural Armor)
+Minotaur Skeleton,Large,67 (9d10+18),12 (Natural Armor)
+Mule,Medium,11 (2d8+2),10
+Mummy,Medium,58 (9d8+18),11 (Natural Armor)
+Mummy Lord,Medium,97 (13d8+39),17 (Natural Armor)
+Nalfeshnee,Large,184 (16d10+96),18 (Natural Armor)
+Night Hag,Medium,112 (15d8+45),17 (Natural Armor)
+Nightmare,Large,68 (8d10+24),13 (Natural Armor)
+Noble,Medium,9 (2d8),15 (Breastplate)
+Ochre Jelly,Large,45 (6d10+12),8
+Octopus,Small,3 (1d6),12
+Ogre,Large,59 (7d10+21),11 (Hide Armor)
+Ogre Zombie,Large,85 (9d10+36),8
+Oni,Large,110 (13d10+39),16 (Chain Mail)
+Orc,Medium,15 (2d8+6),13 (Hide Armor)
+Otyugh,Large,114 (12d10+48),14 (Natural Armor)
+Owl,Tiny,1 (1d4-1),11
+Owlbear,Large,59 (7d10+21),13 (Natural Armor)
+Panther,Medium,13 (3d8),12
+Pegasus,Large,59 (7d10+21),12
+Phase Spider,Large,32 (5d10+5),13 (Natural Armor)
+Pit Fiend,Large,300 (24d10+168),19 (Natural Armor)
+Planetar,Large,200 (16d10+112),19 (Natural Armor)
+Plesiosaurus,Large,68 (8d10+24),13 (Natural Armor)
+Poisonous Snake,Tiny,2 (1d4),13
+Polar Bear,Large,42 (5d10+15),12 (Natural Armor)
+Pony,Medium,11 (2d8+2),10
+Priest,Medium,27 (5d8+5),13 (Chain Shirt)
+Pseudodragon,Tiny,7 (2d4+2),13
+Purple Worm,Gargantuan,247 (15d20+90),18 (Natural Armor)
+Quasit,Tiny,7 (3d4),13
+Quipper,Tiny,1 (1d4-1),13
+Rakshasa,Medium,110 (13d8+52),16 (Natural Armor)
+Rat,Tiny,1 (1d4-1),10
+Raven,Tiny,1 (1d4-1),12
+Red Dragon Wyrmling,Medium,75 (10d8+30),17 (Natural Armor)
+Reef Shark,Medium,22 (4d8+4),12 (Natural Armor)
+Remorhaz,Huge,195 (17d12+85),17 (Natural Armor)
+Rhinoceros,Large,45 (6d10+12),11 (Natural Armor)
+Riding Horse,Large,13 (2d10+2),10
+Roc,Gargantuan,248 (16d20+80),15 (Natural Armor)
+Roper,Large,93 (11d10+33),20 (Natural Armor)
+Rug of Smothering,Large,33 (6d10),12
+Rust Monster,Medium,27 (5d8+5),14 (Natural Armor)
+Saber-Toothed Tiger,Large,52 (7d10 + 14),12
+Sahuagin,Medium,22 (4d8+4),12 (Natural Armor)
+Salamander,Large,90 (12d10+24),15 (Natural Armor)
+Satyr,Medium,31 (7d8),14 (Leather Armor)
+Scorpion,Tiny,1 (1d4-1),11 (Natural Armor)
+Scout,Medium,16 (3d8+3),13 (Leather Armor)
+Sea Hag,Medium,52 (7d8+21),14 (Natural Armor)
+Sea Horse,Tiny,1 (1d4-1),11
+Shadow,Medium,16 (3d8+3),12
+Shambling Mound,Large,136 (16d10+48),15 (Natural Armor)
+Shield Guardian,Large,142 (15d10+60),17 (Natural Armor)
+Shrieker,Medium,13 (3d8),5
+Silver Dragon Wyrmling,Medium,45 (6d8+18),17 (Natural Armor)
+Skeleton,Medium,13 (2d8+4),13 (Armor Scraps)
+Solar,Large,243 (18d10+144),21 (Natural Armor)
+Specter,Medium,22 (5d8),12
+Spider,Tiny,1 (1d4-1),12
+Spirit Naga,Large,75 (10d10+20),15 (Natural Armor)
+Sprite,Tiny,2 (1d4),15 (Leather Armor)
+Spy,Medium,27 (6d8),12
+Steam Mephit,Small,21 (6d6),10
+Stirge,Tiny,2 (1d4),14 (Natural Armor)
+Stone Giant,Huge,126 (11d12+55),17 (Natural Armor)
+Stone Golem,Large,178 (17d10+85),17 (Natural Armor)
+Storm Giant,Huge,230 (20d12+100),16 (Scale Mail)
+Succubus,Medium,66 (12d8 + 12),15 (Natural Armor)
+Succubus (Incubus),Medium,66 (12d8+12),15 (Natural Armor)
+Swarm of Bats,Medium,22 (5d8),12
+Swarm of Beetles,Medium,22 (5d8),12 (Natural Armor)
+Swarm of Centipedes,Medium,22 (5d8),12 (Natural Armor)
+Swarm of Insects,Medium,22 (5d8),12 (Natural Armor)
+Swarm of Poisonous Snakes,Medium,36 (8d8),14
+Swarm of Quippers,Medium,28 (8d8-8),13
+Swarm of Rats,Medium,24 (7d8-7),10
+Swarm of Ravens,Medium,24 (7d8-7),12
+Swarm of Spiders,Medium,22 (5d8),12 (Natural Armor)
+Swarm of Wasps,Medium,22 (5d8),12 (Natural Armor)
+Tarrasque,Gargantuan,676 (33d20+330),25 (Natural Armor)
+Thug,Medium,32 (5d8+10),11 (Leather Armor)
+Tiger,Large,37 (5d10+10),12
+Treant,Huge,138 (12d12+60),16 (Natural Armor)
+Tribal Warrior,Medium,11 (2d8+2),12 (Hide Armor)
+Triceratops,Huge,95 (10d12+30),13 (Natural Armor)
+Troll,Large,84 (8d10+40),15 (Natural Armor)
+Tyrannosaurus Rex,Huge,136 (13d12+52),13 (Natural Armor)
+Unicorn,Large,67 (9d10+18),12
+Vampire,Medium,144 (17d8+68),16 (Natural Armor)
+Vampire Spawn,Medium,82 (11d8+33),15 (Natural Armor)
+Veteran,Medium,58 (9d8+18),17 (Splint)
+Violet Fungus,Medium,18 (4d8),5
+Vrock,Large,104 (11d10+44),15 (Natural Armor)
+Vulture,Medium,5 (1d8+1),10
+Warhorse,Large,19 (3d10+3),11
+Warhorse Skeleton,Large,22 (3d10+6),13 (Barding Scraps)
+Water Elemental,Large,114 (12d10+48),14 (Natural Armor)
+Weasel,Tiny,1 (1d4-1),13
+Wererat,Medium,33 (6d8+6),12
+Weretiger,Medium,120 (16d8+48),12
+White Dragon Wyrmling,Medium,32 (5d8+10),16 (Natural Armor)
+Wight,Medium,45 (6d8+18),14 (Studded Leather)
+Will-o'-Wisp,Tiny,22,19
+Winter Wolf,Large,75 (10d10+20),13 (Natural Armor)
+Wolf,Medium,11 (2d8+2),13 (Natural Armor)
+Worg,Large,26 (4d10+4),13 (Natural Armor)
+Wraith,Medium,67 (9d8+27),13
+Wyvern,Large,110 (13d10+39),13 (Natural Armor)
+Xorn,Medium,73 (7d8+42),19 (Natural Armor)
+Young Black Dragon,Large,127 (15d10+45),18 (Natural Armor)
+Young Blue Dragon,Large,152 (16d10+64),18 (Natural Armor)
+Young Brass Dragon,Large,110 (13d10+39),17 (Natural Armor)
+Young Bronze Dragon,Large,142 (15d10+60),18 (Natural Armor)
+Young Copper Dragon,Large,119 (14d10+42),17 (Natural Armor)
+Young Gold Dragon,Large,178 (17d10+85),18 (Natural Armor)
+Young Green Dragon,Large,136 (16d10+48),18 (Natural Armor)
+Young Red Dragon,Large,178 (17d10+85),18 (Natural Armor)
+Young Silver Dragon,Large,168 (16d10+80),18 (Natural Armor)
+Young White Dragon,Large,133 (14d10+56),17 (Natural Armor)
+Zombie,Medium,22 (3d8+9),8
